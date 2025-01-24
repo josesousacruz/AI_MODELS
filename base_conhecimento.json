@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Como faço para criar um relatório?",
+        "keywords": ["criar um relatório", "fazer relatório", "gerar relatório"],
+        "answer": "Para criar um relatório, acesse o menu 'Relatórios', clique em 'Novo Relatório' e preencha os campos necessários."
+    },
+    {
+        "question": "Por que recebo 'Permissão negada'?",
+        "keywords": ["erro permissão negada", "acesso negado", "não consigo acessar"],
+        "answer": "Esse erro ocorre quando você não possui permissões adequadas. Verifique suas permissões no menu 'Configurações'."
+    }
+]
