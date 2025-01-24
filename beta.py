@@ -5,7 +5,7 @@ from cachetools import TTLCache
 from flask_cors import CORS
 
 # Configurar a chave da API
-genai.configure(api_key='SUA_ACHA_AQUI')
+genai.configure(api_key='SUA_CHAve_AQUI')
 
 # Configuração do modelo
 generation_config = {
