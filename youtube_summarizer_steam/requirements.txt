@@ -1,0 +1,4 @@
+pytubefix
+openai-whisper
+reportlab
+google-generativeai
